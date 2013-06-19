@@ -1,0 +1,18 @@
+question "What is your favorite color?"
+response "Blue"
+response "Green"
+response "Orange"
+response "Red"
+
+question "How old are you?"
+response "0-19"
+response "20-39"
+response "40-59"
+response "60-79"
+response "80-99"
+response "100+"
+
+question "How awesome is this example?"
+response "Awesome"
+response "Really Awesome"
+response "Really Really Awesome"
