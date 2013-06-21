@@ -1,8 +1,8 @@
 require 'singleton'
 
-module Survey
+module Blackbaud
 
-  class Engine
+  class Survey
 
     include Singleton
 
